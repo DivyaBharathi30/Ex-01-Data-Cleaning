@@ -21,8 +21,8 @@ Save the Clean data to the file
 # CODE
 ```
 '''
-Program developed by: EASWAR.J
-Register number: 212221230024
+Program developed by: Divya Bharathi K
+Register number: 212220220011
 '''
 import pandas as pd
 import numpy as np
